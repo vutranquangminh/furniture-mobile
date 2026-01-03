@@ -1,0 +1,2 @@
+npx type-check
+npx lint-staged
